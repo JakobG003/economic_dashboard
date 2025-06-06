@@ -1,0 +1,18 @@
+# Ignored files and directories for Git
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables file
+.env
+
+# Python specific files
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# IDE specific files (e.g., VS Code)
+.vscode/

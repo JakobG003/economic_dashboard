@@ -1,0 +1,9 @@
+streamlit
+pandas
+yfinance
+matplotlib
+openai
+fredapi
+python-dotenv
+request
+datetime
