@@ -159,3 +159,6 @@ st.info("Coming soon — AI-generated macroeconomic interpretations.")
 # Footer
 st.markdown("---")
 st.caption("Built with ❤️ by Jakob | Work in Progress")
+
+
+# To je nov komentar za testiranje Git diffa
