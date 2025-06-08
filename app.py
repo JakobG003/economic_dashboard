@@ -161,4 +161,5 @@ st.markdown("---")
 st.caption("Built with ❤️ by Jakob | Work in Progress")
 
 
-# To je nov komentar za testiranje Git diffa
+# To je nov komentar za testiranje Git diffagit add .
+# Komentar št. 2 za test
